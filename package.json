@@ -1,0 +1,11 @@
+{
+  "name": "submodulesample",
+  "version": "1.0.0",
+  "description": "submodulo que cuelga del proyecto principal para que pueda ser reutilizado por otros proyectos sin código duplicado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
