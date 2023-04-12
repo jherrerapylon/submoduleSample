@@ -18,6 +18,10 @@ function resto(a, b) {
     return a % b
 }
 
+function convertToString(a) {
+    return a.toString()
+}
+
 function readEnv() {
     require('dotenv').config()
     return {
